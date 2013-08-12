@@ -1,0 +1,15 @@
+[submodule "donejs"]
+	path = donejs
+	url = https://github.com/bitovi/donejs.git
+[submodule "bootstrap"]
+	path = bootstrap
+	url = https://github.com/twbs/bootstrap.git
+[submodule "pruebas"]
+	path = pruebas
+	url = https://github.com/gisemartinez/pruebas.git
+[submodule "steal"]
+	path = steal
+	url = https://github.com/bitovi/steal.git
+[submodule "underscore"]
+	path = underscore
+	url = https://github.com/jashkenas/underscore.git
